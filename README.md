@@ -1,4 +1,4 @@
-# Analisador de Exames com IA
+# Assistente de Exames com Agentes de IA
 
 Este projeto utiliza a API da OpenAI para extrair dados de laudos de exames em formato PDF, estruturá-los em um formato legível por máquina (JSON) e, em seguida, gerar um resumo amigável destacando os resultados que estão fora dos valores de referência.
 
@@ -60,7 +60,7 @@ Para que o programa possa se comunicar com a OpenAI, você precisa fornecer sua 
 ### 5. Prepare os Arquivos de Entrada
 
 1.  **PDF do Exame:** Coloque o arquivo PDF do seu exame na pasta principal do projeto e renomeie-o para `Exame.pdf`.
-2.  **Valores de Referência:** O arquivo `valores_referencia.json` já vem com alguns exemplos. Você pode editar este arquivo para adicionar ou modificar os exames e seus respectivos valores de referência.
+2.  **Valores de Referência:** O arquivo `valores_referencia.json` já vem com vários exemplos. Você pode editar este arquivo para adicionar ou modificar os exames e seus respectivos valores de referência.
 
 ### 6. Execute o Script
 
@@ -70,10 +70,15 @@ Com tudo configurado, basta executar o arquivo principal:
 python analisador_exames.py
 ```
 
-O programa irá processar o PDF e exibir o resumo final diretamente no terminal.
+O programa irá processar o PDF, fazer o processo de ETL com os dados e exibir o resumo final diretamente no terminal.
+Também há a possíbilidade de ligar a uma API do WhatsApp ou Telegram. 
 
 ---
 
 ### **Aviso Importante**
 
 Este projeto é uma ferramenta de automação e auxílio à visualização de dados. **Não é um substituto para aconselhamento médico profissional.** Os resumos gerados pela IA não constituem um diagnóstico. Consulte sempre um médico para a interpretação de seus exames.
+
+
+### **Autor**
+Vinicius Mantovam
