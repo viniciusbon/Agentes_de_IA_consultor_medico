@@ -1,0 +1,23 @@
+[
+  {
+    "exame": "TSH - Hormônio tireoestimulante",
+    "valor": "2,18", 
+    "unidade": "uIU/mL"
+  },
+  {
+    "exame": "TRAB - Anticorpos Anti Receptor de TSH (TSI)",
+    "valor": "Inferior a 0,10",
+    "unidade": "IU/L"
+  },
+  {
+    "exame": "T4L - Tiroxina livre",
+    "valor": "1,25",
+    "unidade": "ng/dL"
+  },
+  {
+    "exame": "AAT - Anticorpos anti tireoglobulina",
+    "valor": "Inferior a 1,3",
+    "unidade": "UI/mL"
+  }
+]
+

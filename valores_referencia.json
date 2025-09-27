@@ -1,0 +1,293 @@
+{
+  "SANGUE": {
+    "HEMOGLOBINA": {
+      "min": 13.5,
+      "max": 17.5,
+      "unidade": "g/dL"
+    },
+    "HEMATÓCRITO": {
+      "min": 40,
+      "max": 54,
+      "unidade": "%"
+    },
+    "LEUCÓCITOS": {
+      "min": 4000,
+      "max": 11000,
+      "unidade": "/mm³"
+    },
+    "PLAQUETAS": {
+      "min": 150000,
+      "max": 450000,
+      "unidade": "/mm³"
+    },
+    "Glicemia de Jejum": {
+      "min": 70,
+      "max": 99,
+      "unidade": "mg/dL"
+    },
+    "Hemoglobina Glicada (HbA1c)": {
+      "min": 4,
+      "max": 5.6,
+      "unidade": "%"
+    },
+    "Colesterol Total": {
+      "min": 0,
+      "max": 199,
+      "unidade": "mg/dL"
+    },
+    "LDL-Colesterol": {
+      "min": 0,
+      "max": 129,
+      "unidade": "mg/dL"
+    },
+    "HDL-Colesterol": {
+      "min": 40,
+      "max": 60,
+      "unidade": "mg/dL"
+    },
+    "Triglicerídeos": {
+      "min": 0,
+      "max": 150,
+      "unidade": "mg/dL"
+    },
+    "Creatinina": {
+      "min": 0.7,
+      "max": 1.3,
+      "unidade": "mg/dL"
+    },
+    "Ureia": {
+      "min": 15,
+      "max": 45,
+      "unidade": "mg/dL"
+    },
+    "Ácido Úrico": {
+      "min": 3.5,
+      "max": 7.2,
+      "unidade": "mg/dL"
+    },
+    "TGO (AST)": {
+      "min": 10,
+      "max": 40,
+      "unidade": "U/L"
+    },
+    "TGP (ALT)": {
+      "min": 7,
+      "max": 56,
+      "unidade": "U/L"
+    },
+    "Gama GT": {
+      "min": 9,
+      "max": 48,
+      "unidade": "U/L"
+    },
+    "Fosfatase Alcalina": {
+      "min": 44,
+      "max": 147,
+      "unidade": "U/L"
+    },
+    "Bilirrubina Total": {
+      "min": 0.3,
+      "max": 1.2,
+      "unidade": "mg/dL"
+    },
+    "Albumina": {
+      "min": 3.5,
+      "max": 5.0,
+      "unidade": "g/dL"
+    },
+    "Proteínas Totais": {
+      "min": 6.0,
+      "max": 8.3,
+      "unidade": "g/dL"
+    },
+    "Sódio": {
+      "min": 135,
+      "max": 145,
+      "unidade": "mEq/L"
+    },
+    "Potássio": {
+      "min": 3.5,
+      "max": 5.1,
+      "unidade": "mEq/L"
+    },
+    "Cálcio": {
+      "min": 8.5,
+      "max": 10.5,
+      "unidade": "mg/dL"
+    },
+    "Magnésio": {
+      "min": 1.7,
+      "max": 2.2,
+      "unidade": "mg/dL"
+    },
+    "Ferro": {
+      "min": 50,
+      "max": 170,
+      "unidade": "µg/dL"
+    },
+    "Ferritina": {
+      "min": 30,
+      "max": 400,
+      "unidade": "ng/mL"
+    }
+  },
+  "HORMONIOS": {
+    "TSH": {
+      "min": 0.4,
+      "max": 4.0,
+      "unidade": "µUI/mL"
+    },
+    "T4 Livre": {
+      "min": 0.7,
+      "max": 1.9,
+      "unidade": "ng/dL"
+    },
+    "T3 Livre": {
+      "min": 2.0,
+      "max": 4.4,
+      "unidade": "pg/mL"
+    },
+    "Cortisol Matinal": {
+      "min": 5,
+      "max": 25,
+      "unidade": "µg/dL"
+    },
+    "ACTH": {
+      "min": 10,
+      "max": 60,
+      "unidade": "pg/mL"
+    },
+    "Prolactina": {
+      "min": 4,
+      "max": 25,
+      "unidade": "ng/mL"
+    },
+    "FSH": {
+      "min": 1.5,
+      "max": 12.4,
+      "unidade": "mUI/mL"
+    },
+    "LH": {
+      "min": 1.7,
+      "max": 8.6,
+      "unidade": "mUI/mL"
+    },
+    "Estradiol (E2)": {
+      "min": 20,
+      "max": 350,
+      "unidade": "pg/mL"
+    },
+    "Progesterona": {
+      "min": 0.1,
+      "max": 20,
+      "unidade": "ng/mL"
+    },
+    "Testosterona Total": {
+      "min": 300,
+      "max": 1000,
+      "unidade": "ng/dL"
+    },
+    "Testosterona Livre": {
+      "min": 9,
+      "max": 30,
+      "unidade": "pg/mL"
+    },
+    "DHEA-S": {
+      "min": 100,
+      "max": 500,
+      "unidade": "µg/dL"
+    },
+    "IGF-1": {
+      "min": 100,
+      "max": 300,
+      "unidade": "ng/mL"
+    },
+    "Insulina de Jejum": {
+      "min": 2,
+      "max": 25,
+      "unidade": "µU/mL"
+    },
+    "Paratormônio (PTH)": {
+      "min": 10,
+      "max": 65,
+      "unidade": "pg/mL"
+    },
+    "Calcitonina": {
+      "min": 0,
+      "max": 10,
+      "unidade": "pg/mL"
+    },
+    "Hormônio do Crescimento (GH)": {
+      "min": 0.05,
+      "max": 3,
+      "unidade": "ng/mL"
+    },
+    "Aldosterona": {
+      "min": 2,
+      "max": 16,
+      "unidade": "ng/dL"
+    },
+    "Renina Ativa": {
+      "min": 0.25,
+      "max": 5.82,
+      "unidade": "ng/mL/h"
+    }
+  },
+  "URINA": {
+    "pH": {
+      "min": 4.6,
+      "max": 8.0,
+      "unidade": ""
+    },
+    "Densidade": {
+      "min": 1.005,
+      "max": 1.030,
+      "unidade": "g/mL"
+    },
+    "Proteínas": {
+      "normal": "ausente ou < 150 mg/24h"
+    },
+    "Glicose": {
+      "normal": "ausente"
+    },
+    "Corpos Cetônicos": {
+      "normal": "ausente"
+    },
+    "Urobilinogênio": {
+      "min": 0.1,
+      "max": 1.0,
+      "unidade": "mg/dL"
+    },
+    "Bilirrubina": {
+      "normal": "ausente"
+    },
+    "Hemoglobina": {
+      "normal": "ausente"
+    },
+    "Leucócitos": {
+      "min": 0,
+      "max": 10,
+      "unidade": "células/campo"
+    },
+    "Hemácias": {
+      "min": 0,
+      "max": 5,
+      "unidade": "células/campo"
+    },
+    "Creatinina Urinária": {
+      "min": 500,
+      "max": 2000,
+      "unidade": "mg/24h"
+    },
+    "Clareamento de Creatinina": {
+      "min": 90,
+      "max": 120,
+      "unidade": "mL/min"
+    },
+    "Proteína/Creatinina": {
+      "max": 0.2,
+      "unidade": "mg/mg"
+    }
+  }
+}
+
