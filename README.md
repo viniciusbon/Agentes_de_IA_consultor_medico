@@ -61,6 +61,11 @@ Para que o programa possa se comunicar com a OpenAI, você precisa fornecer sua 
 
 1.  **PDF do Exame:** Coloque o arquivo PDF do seu exame na pasta principal do projeto e renomeie-o para `Exame.pdf`.
 2.  **Valores de Referência:** O arquivo `valores_referencia.json` já vem com vários exemplos. Você pode editar este arquivo para adicionar ou modificar os exames e seus respectivos valores de referência.
+3. **Extra:** Disponibilizei um Script para gerar exames em PDF, caso não disponha de um, basta executar o comando abaixo:
+
+```
+python gerador_de_exames.py
+  ```
 
 ### 6. Execute o Script
 
