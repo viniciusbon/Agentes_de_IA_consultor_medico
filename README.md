@@ -87,3 +87,5 @@ Este projeto é uma ferramenta de automação e auxílio à visualização de da
 
 ### **Autor**
 Vinicius Mantovam
+
+Fico a disposição através do [Linkedin](www.linkedin.com/in/vinicius-mantovam)
